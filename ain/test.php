@@ -1,4 +1,5 @@
 <?php
+//test
 $target_dir = "assets/file/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
